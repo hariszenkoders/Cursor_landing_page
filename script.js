@@ -1,4 +1,4 @@
-// PacePulse Landing Scripts
+// I'm Accomplished Landing Scripts
 // - Lightweight intersection observer for fade/slide animations
 // - Smooth scroll for in-page anchors
 // - Respects prefers-reduced-motion
